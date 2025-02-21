@@ -1,0 +1,6 @@
+.direnv
+.git
+.jj
+
+target/
+zig-out/
